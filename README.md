@@ -1,12 +1,14 @@
-### Hi there 👋
+# Carlos Roberto
+
+### E aí pessoal! 👋
+
+Meu nome é Carlos Roberto, estudo programação sozinho e trabalho com tecnologias como Node.js, Vue.js e TypeScript.
 
 <!--
-**caarlos1/caarlos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🤘 Stats
+
+[![Carlos Roberto GitHub Stats](https://github-readme-stats.vercel.app/api?username=caarlos1&count_private=true&theme=radical&show_icons=true)](https://github.com/caarlos1)
+
+[![Carlos Roberto Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caarlos&layout=compact&theme=radical)](https://github.com/caarlos1)
