@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 -->
 ## 🤘 Stats
 
-[![Carlos Roberto GitHub Stats](https://github-readme-stats.vercel.app/api?username=caarlos1&count_private=true&theme=radical&show_icons=true)](https://github.com/caarlos1)
-
 [![Carlos Roberto Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caarlos&layout=compact&theme=radical)](https://github.com/caarlos1)
