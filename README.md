@@ -1,6 +1,6 @@
 # Carlos Roberto da Silva Júnior
 
-<img src="https://github.com/ohcarlinhos/ohcarlinhos/blob/main/images/stat.svg" alt="Carlos Roberto WakaTime Activity"/>
+<img src="https://github.com/ohcarlinhos/ohcarlinhos/blob/main/images/stat.svg" alt="@ohcarlinhos WakaTime Activity"/>
 
 ## Sobre
 Desenvolvedor FullStack | C# | .NET | Entity Framework | Blazor | MVC | SQL Server
