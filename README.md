@@ -12,4 +12,5 @@ Desenvolvedor, em atuação desde o início de 2021, com experiência em cargos 
 - [Registra Meu Tempo Aí](https://registrameutempoai.com.br/)
 - [Calculadora de Folha de Ponto](https://ponto.caarlos.com/)
 - [Pomodoro](https://pomodoro.caarlos.com/)
-- [LinkedIn Profile](https://www.linkedin.com/in/carlos-roberto/)
+- [LinkedIn](https://www.linkedin.com/in/carlos-roberto/)
+- [Portfólio](https://caarlos.com/)
