@@ -7,7 +7,6 @@ Desenvolvedor FullStack | C# | .NET | Blazor | Postrgres | JavaScript | TypeScri
 
 Desenvolvedor, em atuação desde o início de 2021, com experiência em cargos utilizando tecnologias focadas no lado do cliente (Front-End) e experiência acumulada em projetos, trabalhos e produtos pessoais em ambas às áreas, cliente e servidor (Front-End e Back-End).
 
-## Projetos / Links
+## Links
 
-- [Registra meu tempo aí!](https://registrameutempoai.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/carlos-roberto/)
