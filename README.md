@@ -1,6 +1,4 @@
-# Carlos Roberto da Silva Júnior
-
-<img src="https://github.com/ohcarlinhos/ohcarlinhos/blob/main/images/stat.svg" alt="@ohcarlinhos WakaTime Activity"/>
+# Carlos Júnior
 
 ## Sobre
 Desenvolvedor FullStack | C# | .NET | Blazor | Postrgres | JavaScript | TypeScript | Vue.js
